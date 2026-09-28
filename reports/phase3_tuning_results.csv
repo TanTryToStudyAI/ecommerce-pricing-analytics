@@ -1,0 +1,3 @@
+Model,Best_CV_RMSE,Best_Params
+RandomForestRegressor,14.752873376609841,"{'model__max_depth': 10, 'model__min_samples_leaf': 2, 'model__min_samples_split': 5, 'model__n_estimators': 200}"
+SVR,14.510833942873296,"{'model__C': 1, 'model__epsilon': 0.5, 'model__gamma': 'auto', 'model__kernel': 'rbf'}"

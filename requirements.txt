@@ -1,0 +1,11 @@
+# E-Commerce Pricing Analytics
+# Python dependencies for the end-to-end data scraping, preprocessing, EDA,
+# and machine-learning workflow.
+requests
+beautifulsoup4
+pandas
+numpy
+scikit-learn
+joblib
+jupyter
+ipykernel
